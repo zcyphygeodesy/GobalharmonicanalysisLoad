@@ -1,0 +1,15 @@
+testdata\grdchg2018010312.dat
+testdata\grdchg2018011012.dat
+testdata\grdchg2018011712.dat
+testdata\grdchg2018012412.dat
+testdata\grdchg2018013112.dat
+testdata\grdchg2018020712.dat
+testdata\grdchg2018021412.dat
+testdata\grdchg2018022112.dat
+testdata\grdchg2018022812.dat
+testdata\grdchg2018030712.dat
+testdata\grdchg2018031412.dat
+testdata\grdchg2018032112.dat
+testdata\grdchg2018032812.dat
+testdata\grdchg2018040412.dat
+testdata\grdchg2018041112.dat
