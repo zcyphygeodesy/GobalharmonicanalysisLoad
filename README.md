@@ -42,5 +42,5 @@ https://www.zcyphygeodesy.com/en/h-nd-139.html
     mjdtotm(mjd0, ltm); tmtostr(tm, tmstr)
     StatlsGrd(ewh,zero,nlat,nlon,pm,rst0);CGrdPntD2(lon,lat,dtm,nlat,nlon,hd)
 ## [For compile and link]
-    Fortran90, 132 Columns fixed format. Fortran compiler. Fortran compiler. mkl_lapack95_ilp64.lib link library (include fftw3.f) required.
+    Fortran90, 132 Columns fixed format. Fortran compiler. mkl_lapack95_ilp64.lib link library (include fftw3.f) required.
 DOS executable test file and all input and output data.
