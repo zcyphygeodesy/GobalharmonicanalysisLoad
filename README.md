@@ -43,4 +43,4 @@ https://www.zcyphygeodesy.com/en/h-nd-139.html
     StatlsGrd(ewh,zero,nlat,nlon,pm,rst0);CGrdPntD2(lon,lat,dtm,nlat,nlon,hd)
 ## [For compile and link]
     Fortran90, 132 Columns fixed format. Fortran compiler. mkl_lapack95_ilp64.lib link library (include fftw3.f) required.
-DOS executable test file and all input and output data.
+The rar compression package in the attachment includes the test project in visual studio 2017 - intel fortran integrated environment, DOS executable test file and all input and output data.
